@@ -1,0 +1,5 @@
+CREDITS (Press Enter to continue)
+Created by David Kua and Jason Liw Yan Chong.
+ASCII Battleship Picture found here: http://ascii.co.uk/art/battleship
+ASCII Battleship Title and Game Over generated here: http://patorjk.com/software/taag/
+And lots of help from Google, Stackoverflow/Stackexchange, and the Python documentation.

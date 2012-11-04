@@ -1,0 +1,13 @@
+EXTENSIONS (Press Enter to continue)
+This is a continually updated list of all extensions we have implemented.
+Both serious and silly.
+1. Implemented a start menu with a valid input checker.
+2. Implemented a "Press Enter to continue." function.
+3. Implemented an exit program function.
+4. Implemented recursion in the following functions:
+	*board.random_board(dest, sub, batt, carr) Randomly places a fleet of ships.
+	*board.check(x, y, length, direction) Recursively checks if the co-ordinate is valid.
+	*ship.add_ship(name, x, y, length, direction) Recursively places the ship at given co-ordinate, length, and direction.
+	*battleship._place(player, size, length, number) Helper function that allows player to manually place ship.
+	*battleship._fleet(size) Helper function allows manual selection of number of ships.
+5. Implemented class inheritance from lecture in the Player() and Ai() classes.

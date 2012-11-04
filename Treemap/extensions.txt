@@ -1,0 +1,20 @@
+Extensions
+
+1) Tkinter GUI
+Created a simple setup menu in Tkinter that allows the user to visually
+browse for the directory to treemap, select what window size they
+choose, and whether they want the random or non-random colour scheme.
+Errors pop up as dialogue boxes.
+
+2) Non-random Colour Scheme
+Created a function that generates random and non-random colour schemes
+for the treemap. In the non-random mode, the files of a folder are all
+different shades of a single colour, allowing for easier recognition of
+folders.
+
+3) Click-to-Open Functionality
+Created a function that uses Pygame's mouse events and the sys, os, and
+subprocess Python modules to open the containing folder of whatever 
+file rectangle the user clicks on. Currently only works on Windows and
+OSX systems.
+4) Squarified tiling algorithm. Display only.

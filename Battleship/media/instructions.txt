@@ -1,0 +1,21 @@
+INSTRUCTIONS (Press Enter to continue)
+Welcome to our implementation of the battleship game.
+Please follow the prompts to set up the game correctly.
+Each player is given a square board of n size. (n x n)
+The board must be at least n = 2.
+The user may choose any number of ships to place on the boards.
+As long as they have a minimum total ship length of 2.
+There are four kinds of ships:
+Destroyer (DEST) - Length of 2
+Submarine (SUBM) - Length of 3
+Battleship (BATT) - Length of 4
+Carrier (CARR) - Length of 5
+The players' may choose to manually place their own ships.
+They may also choose to let the game randomly place them.
+A quick game is random placement of 1 DEST, 2 SUBM, 1 BATT, and 1 CARR.
+Once game is setup all the player needs to do is input an x and y co-ordinate.
+The first player to have all their ships hit/sunk loses.
+That's pretty much it for rules.
+Oh, type quit() at anytime to exit the program.
+Or type start_menu() to go back to the main menu.
+Enjoy our game!
